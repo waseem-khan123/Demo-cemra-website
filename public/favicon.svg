@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B1F3A"/>
+  <path d="M32 10L16 17V30C16 41.5 22.8 52 32 55C41.2 52 48 41.5 48 30V17L32 10Z" fill="#2563EB" opacity="0.25"/>
+  <path d="M32 12L18 18.2V29.8C18 39.9 24 49.1 32 51.8C40 49.1 46 39.9 46 29.8V18.2L32 12Z" stroke="#2563EB" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- CCTV Camera inside shield -->
+  <path d="M24 28H36L42 22V36L36 30H24V28Z" fill="#FFFFFF"/>
+  <circle cx="28" cy="29" r="2.5" fill="#2563EB"/>
+  <circle cx="38" cy="24" r="1.5" fill="#38BDF8"/>
+  <rect x="23" y="32" width="4" height="6" rx="1" fill="#38BDF8"/>
+  <path d="M21 38H29" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+</svg>
